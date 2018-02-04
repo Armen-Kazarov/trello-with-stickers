@@ -1,0 +1,22 @@
+body {
+    background: #3dff1c;
+}
+
+.list {
+    background: rgba(226, 228, 230, 1);
+    max-width: 200px;
+    margin: 3px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.add-card {
+    background: #fff600cf;
+    padding: 4px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.add-card:hover {
+    background: rgba(249, 255, 118, 0.81);
+}

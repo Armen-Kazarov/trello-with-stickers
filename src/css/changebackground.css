@@ -1,0 +1,60 @@
+.changeBackground {
+    width: 320px;
+    background: #9ca1a6;
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 12px;
+    padding-right: 3px;
+}
+
+.colorSelection {
+    width: 146px;
+    height: 112px;
+    border-radius: 14px;
+}
+
+.colorSelection:hover {
+    opacity: 0.5;
+}
+
+.colorSelection +.colorSelection {
+    margin-bottom: 10px;
+}
+
+.darkBlueBg {
+    background: #0009bc;
+}
+
+.orangeBg {
+    background: #ff9400;
+}
+
+.darkGreenBg {
+    background: #016403;
+}
+
+.redBg {
+    background: #ff0905;
+}
+
+.purpleBg {
+    background: #80047d;
+}
+
+.pinkBg {
+    background: #bf8e95;
+}
+
+.lightGreenBg {
+    background: #8aee89;
+}
+
+.lighBlueBg {
+    background: #99c0cc;
+}
+
+.grayBg {
+    background: #8d8d8d;
+}

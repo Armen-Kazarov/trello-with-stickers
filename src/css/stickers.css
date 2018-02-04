@@ -1,0 +1,4 @@
+.stickers-img {
+    display: flex;
+    flex-wrap: nowrap;
+}

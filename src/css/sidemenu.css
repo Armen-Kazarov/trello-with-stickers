@@ -1,0 +1,29 @@
+.menu-btn {
+    background: none;
+    border: none;
+    float: right;
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.sidemenu {
+    background: #9ca1a6;
+    padding: 7px;
+    width: 340px;
+    position: absolute;
+    right: 0;
+}
+
+ul li {
+    list-style-type: none;
+    cursor: pointer;
+    font-weight: 500;
+    color: #151515;
+    text-align: center;
+}
+
+ul li:hover {
+    color: #000;
+    background: #949494;
+}

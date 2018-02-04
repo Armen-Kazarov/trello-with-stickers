@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.header a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.header-second-part a {
+    font-family: Pacifico;
+    color: #f0f0f0;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.header-boards {
+    background-color: #ffffffb0;
+    padding: 3px 7px;
+    font-size: 14px;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: 700;
+}
+
